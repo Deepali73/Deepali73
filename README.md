@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepali Verma
 
-<!--
-**Deepali73/Deepali73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+👀 I’m passionate about **development** and solving problems using **Java, C++, and Python**. 
+🌱 Currently learning **MERN Stack Development**, **Data Structures & Algorithms**, and diving deeper into **Artificial Intelligence & Machine Learning**.  
+👯 Looking to collaborate on exciting **new projects** in **AI, ML, and Web Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Interests  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🧠 Deep Learning & NLP  
+- 📊 Data Science & Analytics  
+- 💻 C++, Java & Python Programming  
+- 🌍 Full-Stack Development (MERN Stack)  
+- 🚀 Open Source Contributions  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://www.linkedin.com/in/deepali-verma-075978257/)
+[![GitHub](https://github.com/Deepali73)
+
+⭐ **Feel free to explore my repositories and connect with me!** 🚀  
+
